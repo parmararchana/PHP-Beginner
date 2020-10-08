@@ -14,11 +14,12 @@
 </html>
 
 <?php
-echo '<pre>';
-print_r( $_GET);
-echo '<pre>';
+//echo '<pre>';
+//print_r( $_GET);
+//echo '<pre>';
 
-$value=$_GET['keyword'];
+
+$value=$_GET['keyword']; // get and in bracket the name of input tag
 echo "Value which is in search : ".$value.'<br>';
 
 ?>
