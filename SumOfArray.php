@@ -1,5 +1,7 @@
 <?php
 
+
+
 function sum(...$numbers){
 //    $sum=0;
 //    foreach ($numbers as $number){
